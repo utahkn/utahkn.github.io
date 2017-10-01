@@ -3,7 +3,7 @@ layout: page
 title: IEEE - Honor Society
 ---
 
-# IEEE - Eta Kappa Nu, Electrical and Computer Engineering Honor Society
+# Eta Kappa Nu, Electrical and Computer Engineering Honor Society
 
 ## Eligibility
 
@@ -21,7 +21,7 @@ The next induction cycle closes on **October 15th, 2017**.
 - Applications
 - Time Log
 - $85 one-time fee for lifetime membership
-All will be due to HKN Office in Nedderman Hall Room 132.
+All will be due to HKN Office in Nedderman Hall 132.
 
 
 If you have any questions, email us at uta.hkn@gmail.com.
