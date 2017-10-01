@@ -26,4 +26,4 @@ All will be due to HKN Office in Nedderman Hall 132.
 
 If you have any questions, email us at uta.hkn@gmail.com.
 
-href="/files/HKNcrest.png" download>Download HKN Crest
+<a href="/files/HKNcrest.png" download>Download HKN Crest
