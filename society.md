@@ -20,10 +20,10 @@ Requirements for Graduates:
 
 ## Induction Cycle
 The next induction cycle closes on **October 15th, 2017**.
+The following will be due to HKN Office in Nedderman Hall 132:
 - Applications
 - Time Log
 - $85 one-time fee for lifetime membership
-All will be due to HKN Office in Nedderman Hall 132.
 
 
 If you have any questions, email us at uta.hkn@gmail.com.
