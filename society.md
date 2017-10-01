@@ -3,9 +3,9 @@ layout: page
 title: IEEE - Honor Society
 ---
 
-## IEEE - Eta Kappa Nu, Electrical and Computer Engineering Honor Society
+# IEEE - Eta Kappa Nu, Electrical and Computer Engineering Honor Society
 
-# Eligibility
+## Eligibility
 
 Requirements for Undergraduates:
 - Juniors: Top 1/4 of their class.
@@ -15,11 +15,13 @@ Requirements for Undergraduates:
 Requirements for Graduates:
 - You are automatically eligible to join for the upcoming induction cycle!
 
-# Induction Cycle
+
+## Induction Cycle
 The next induction cycle closes on **October 15th, 2017**.
 - Applications
 - Time Log
 - $85 one-time fee for lifetime membership
 All will be due to HKN Office in Nedderman Hall Room 132.
+
 
 If you have any questions, email us at uta.hkn@gmail.com.
