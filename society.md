@@ -3,7 +3,7 @@ layout: page
 title: IEEE - Honor Society
 ---
 
-<img src="/files/IMG_7047.JPG"> 
+<img src="/files/HKNfall2017.JPG"> 
 
 # Eta Kappa Nu, Electrical and Computer Engineering Honor Society
 
