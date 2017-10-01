@@ -10,3 +10,4 @@ We will be going over a past exam and answering some student questions if time p
 - 3:00 - 5:00 pm
 - Woolf Hall 308
 
+This review will be recorded and posted to our [Youtube page](https://www.youtube.com/channel/UCV0OmOABl9S8e4QHvtNHLow).
