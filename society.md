@@ -7,12 +7,12 @@ title: IEEE - Honor Society
 
 ## Eligibility
 
-Requirements for Undergraduates:
+### Requirements for Undergraduates:
 - Juniors: Top 1/4 of their class.
 - Seniors: Top 1/3 of their class.
 - Time log with two (2) hours of tutoring (time logs available at NH 132).
 
-Requirements for Graduates:
+### Requirements for Graduates:
 - You are automatically eligible to join for the upcoming induction cycle!
 
 
