@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to the UTA HKN page. 
+title: Welcome to the UTA HKN page!
 ---
 Here we will post updates about our reviews sessions and other events, so bookmark this page!
 
