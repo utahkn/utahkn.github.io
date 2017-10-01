@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Review for EE2415 - Circuits 1!
-categories: EE2415
 ---
 
 This review is FREE! 
