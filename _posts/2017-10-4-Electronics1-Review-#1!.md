@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review #1 for EE2403 - Electronics 1!
+title: Review \#1 for EE2403 - Electronics 1!
 ---
 This review is FREE! 
 
