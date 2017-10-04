@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review for EE2441 - DLM 1!
+title: Review #1 for EE2441 - DLM 1!
 ---
 
 Come to our review for Digital Logic and Microprocessors 1, it is **FREE**!
