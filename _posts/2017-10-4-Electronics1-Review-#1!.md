@@ -11,3 +11,5 @@ We will be going over some problems and provide some techniques for your exam ta
 - Woolf Hall 308
 
 This review will be recorded and posted to our [Youtube page](https://www.youtube.com/channel/UCV0OmOABl9S8e4QHvtNHLow).
+
+*As always, you are welcome to stop by NH 132 (IEEE Room) to ask for help!*
