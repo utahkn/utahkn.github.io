@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CANCELLED Review 1 for EE2347 - Math Found!
+title: CANCELLED: Review 1 for EE2347 - Math Found!
 ---
 EE 2347 - Mathematical Foundations of Electrical Engineering
 
