@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good Luck on Exam and Happy Holidays!
+title: Good Luck on Exams and Happy Holidays!
 ---
 
 As this semester comes to an end, HKN would like to wish everyone the best of luck on their upcoming exams.
