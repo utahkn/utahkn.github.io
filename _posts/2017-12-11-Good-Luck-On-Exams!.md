@@ -1,15 +1,13 @@
 ---
 layout: post
-title: YOUR OWN TITLE HERE
+title: Good Luck on Exam and Happy Holidays!
 ---
 
-Format:
-[Link Text Here](www.URLlink.goeshere.com)
+As this semester comes to an end, HKN would like to wish everyone the best of luck on their upcoming exams.
 
-Bullets
-- First tier bullet
-  - Second tier bullet
-    - Third tier bullet
+We want you to know that the IEEE room (NH 132) will likely be open throughout the week, and ALL are welcome to come and study here. 
+It is a great place to collaborate with classmates and possibly get help from upperclassmen.
 
-*Italic Text*
-**Bold Text**
+
+Study smart!
+- UTA HKN
