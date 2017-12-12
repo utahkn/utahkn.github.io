@@ -9,5 +9,5 @@ We want you to know that the IEEE room (NH 132) will likely be open throughout t
 It is a great place to collaborate with classmates and possibly get help from upperclassmen.
 
 
-Study smart!
-- UTA HKN
+  Study smart!
+  UTA HKN
