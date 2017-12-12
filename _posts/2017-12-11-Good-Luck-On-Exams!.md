@@ -7,8 +7,8 @@ title: Good Luck On Exams!
 
 Bullets
 - First tier bullet
-- - Second tier bullet
-- - - Third tier bullet
+  - Second tier bullet
+    - Third tier bullet
 
 *Italic Text*
 **Bold Text**
