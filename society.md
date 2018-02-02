@@ -19,7 +19,7 @@ Requirements for Graduates:
 
 
 ## Induction Cycle
-The next induction cycle closes on **Friday, October 15th, 2017**.
+The next induction cycle closes on **Friday, April 13th, 2018**.
 The following will be due to HKN Office in Nedderman Hall 132:
 - Applications
 - Time Log
