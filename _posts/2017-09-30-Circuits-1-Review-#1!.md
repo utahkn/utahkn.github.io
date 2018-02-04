@@ -6,8 +6,8 @@ This review is FREE!
 
 We will be going over a past exam and answering some student questions if time permits :)
 
-- Monday, October 2nd, 2017
-- 3:00 - 5:00 pm
-- Woolf Hall 308
+- Wednesday, February 7th, 2018
+- 1:00 - 2:00 pm
+- Location TBA
 
 This review will be recorded and posted to our [Youtube page](https://www.youtube.com/channel/UCV0OmOABl9S8e4QHvtNHLow).
