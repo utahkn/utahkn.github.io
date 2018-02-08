@@ -6,7 +6,7 @@ This review is FREE!
 
 We will be going over a past exam and answering some student questions if time permits :)
 
-- Wednesday, February 7th, 2018
+- Wednesday, February 14th, 2018
 - 1:00 - 2:00 pm
 - Location TBA
 
