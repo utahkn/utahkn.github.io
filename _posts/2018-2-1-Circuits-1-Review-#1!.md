@@ -7,7 +7,7 @@ This review is FREE!
 We will be going over a past exam and answering some student questions if time permits :)
 
 - Wednesday, February 14th, 2018
-- 1:00 - 2:00 pm
-- Location TBA
+- 2:00 - 3:00 pm
+- Location NH 106
 
 This review will be recorded and posted to our [Youtube page](https://www.youtube.com/channel/UCV0OmOABl9S8e4QHvtNHLow).
