@@ -24,7 +24,7 @@ The following will be due to HKN Office in Nedderman Hall 132:
 - Applications
 - Time Log
 - $100 one-time fee for lifetime membership
--<a href="/files/resources/Tutoring Hour(s) Tracker.pdf" download>Tutoring Hours, (HKN Inductees)</a>
+- <a href="/files/resources/Tutoring Hour(s) Tracker.pdf" download>Tutoring Hours, (HKN Inductees)</a>
 
 
 If you have any questions, email us at uta.hkn@gmail.com.
