@@ -24,6 +24,7 @@ The following will be due to HKN Office in Nedderman Hall 132:
 - Applications
 - Time Log
 - $100 one-time fee for lifetime membership
+-
 
 
 If you have any questions, email us at uta.hkn@gmail.com.
