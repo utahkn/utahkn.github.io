@@ -1,0 +1,39 @@
+---
+import type { Officer } from '../data/officers';
+
+interface Props {
+  officer: Officer;
+}
+
+const { officer } = Astro.props;
+
+const initials = officer.name
+  .split(' ')
+  .map((part) => part[0])
+  .filter(Boolean)
+  .slice(0, 2)
+  .join('')
+  .toUpperCase();
+---
+
+<div class="flex flex-col items-center rounded-lg border border-slate-200 bg-white p-6 text-center shadow-sm">
+  {
+    officer.photo ? (
+      <img src={officer.photo} alt={officer.name} class="h-24 w-24 rounded-full object-cover" />
+    ) : (
+      <div class="flex h-24 w-24 items-center justify-center rounded-full bg-blue-100 text-xl font-semibold text-blue-800">
+        {initials || '?'}
+      </div>
+    )
+  }
+  <p class="mt-4 font-semibold text-slate-900">{officer.name}</p>
+  <p class="text-sm text-blue-700">{officer.role}</p>
+  {officer.major && <p class="mt-1 text-xs text-slate-500">{officer.major}</p>}
+  {
+    officer.email && (
+      <a href={`mailto:${officer.email}`} class="mt-2 text-xs text-slate-500 underline hover:text-blue-700">
+        {officer.email}
+      </a>
+    )
+  }
+</div>

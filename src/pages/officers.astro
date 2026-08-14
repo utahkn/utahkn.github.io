@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+import OfficerCard from '../components/OfficerCard.astro';
+import { officers } from '../data/officers';
+---
+
+<Layout title="Officers" description="Meet the officers of the UTA HKN chapter.">
+  <section class="mx-auto max-w-5xl px-4 py-12">
+    <h1 class="text-3xl font-bold text-slate-900">Officers</h1>
+    <p class="mt-2 text-slate-600">
+      To update this page, edit
+      <code class="rounded bg-slate-100 px-1.5 py-0.5 text-sm">src/data/officers.ts</code>.
+    </p>
+
+    <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {officers.map((officer) => <OfficerCard officer={officer} />)}
+    </div>
+  </section>
+</Layout>

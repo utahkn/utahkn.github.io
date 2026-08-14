@@ -1,0 +1,46 @@
+---
+const links = [
+  { href: '/', label: 'Home' },
+  { href: '/about', label: 'About' },
+  { href: '/officers', label: 'Officers' },
+  { href: '/events', label: 'Events' },
+  { href: '/tutoring', label: 'Tutoring' },
+  { href: '/induction', label: 'Induction' },
+  { href: '/contact', label: 'Contact' },
+];
+
+const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
+---
+
+<header class="border-b border-slate-200 bg-white">
+  <div class="mx-auto flex max-w-5xl flex-col gap-3 px-4 py-3 sm:flex-row sm:items-center sm:justify-between">
+    <a href="/" class="flex items-center gap-2 font-semibold text-slate-900">
+      <img src="/images/hkn-crest.png" alt="HKN crest" class="h-9 w-9 shrink-0 object-contain" />
+      <span class="whitespace-nowrap">UTA HKN</span>
+    </a>
+
+    <nav aria-label="Primary">
+      <ul class="flex flex-wrap gap-x-5 gap-y-1 text-sm">
+        {
+          links.map((link) => {
+            const isActive = (link.href === '/' ? '/' : link.href.replace(/\/$/, '')) === currentPath;
+            return (
+              <li>
+                <a
+                  href={link.href}
+                  aria-current={isActive ? 'page' : undefined}
+                  class:list={[
+                    'transition-colors hover:text-blue-700',
+                    isActive ? 'font-semibold text-blue-700' : 'text-slate-600',
+                  ]}
+                >
+                  {link.label}
+                </a>
+              </li>
+            );
+          })
+        }
+      </ul>
+    </nav>
+  </div>
+</header>
